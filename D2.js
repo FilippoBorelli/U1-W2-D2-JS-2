@@ -30,7 +30,7 @@ else{
 */
 
 let number2 = 5
-if(number2 % 10) {
+if(number2 % 10 ===0 ) {
 console.log("divisibile per 5") }
 else{
   console.log("non divisibile per 5")
